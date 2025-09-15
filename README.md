@@ -18,9 +18,7 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&logo=Tailwind CSS&logoColor=white">
           <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=Vercel&logoColor=white">
-          </div>
+          <br/></div>
     </div>
     
