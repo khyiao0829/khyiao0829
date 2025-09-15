@@ -6,7 +6,6 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=Firebase&logoColor=white">
